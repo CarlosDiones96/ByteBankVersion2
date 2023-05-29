@@ -1,6 +1,5 @@
 # ByteBankVersion2
 Este repositório foi utilizado para fins de estudos, tendo como exemplo o projeto ByteBank da trilha de C# da Alura. Por meio dele, aprendi e pratiquei conceitos fundamentais da programação orientada a objetos, como *abstração, herança, polimorfismo*, definição de *classes abstratas e interfaces*, além da utilização de *classes estáticas*. 
-O projeto em si consiste na implementação simples de um *sistema bancário*.
 ## Ferramentas
 A implemtação foi feita em um projeto do tipo Console, diretamente no Visual Studio, com .NET 7.
 ## Divisão do sistema
